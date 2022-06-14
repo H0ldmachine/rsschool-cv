@@ -1,1 +1,1 @@
-https://H0ldmachine.github.io/rsschool-cv/rsschool-c
+https://H0ldmachine.github.io/rsschool-cv/rsschool-cv
