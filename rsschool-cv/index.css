@@ -127,8 +127,12 @@ p {
 
 /* SKILLS */
 
-.skills {
-    margin: 30px 10px;
+.paragraph {
+    margin: 20px 50px 10px 50px;
+}
+
+.skills_title {
+    margin: 15px 10px;
     text-transform: uppercase;
 }
 
